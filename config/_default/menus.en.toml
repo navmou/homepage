@@ -1,0 +1,55 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About Me"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "CV"
+url = "cv/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+[[main]]
+weight = 6
+name = "Pages"
+hasChildren = true
+
+[[main]]
+parent = "Pages"
+name = "Categories"
+url = "categories/"
+
+
+# footer menu
+[[footer]]
+name = "About Me"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "CV"
+url = "cv/"
+weight = 2
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weigth = 3
+

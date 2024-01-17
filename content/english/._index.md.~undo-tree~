@@ -1,0 +1,107 @@
+(undo-tree-save-format-version . 1)
+"693072c33cadca835be61526548a46fbb399d065"
+[nil nil nil nil (26021 26629 116649 77000) 0 nil]
+([nil nil ((":" . -63) (undo-tree-id23 . -1) (undo-tree-id24 . -1) (" " . -64) (undo-tree-id25 . -1) (undo-tree-id26 . -1) ("\"" . -65) (undo-tree-id27 . -1) (undo-tree-id28 . -1) ("i" . -66) (undo-tree-id29 . -1) (undo-tree-id30 . -1) ("m" . -67) (undo-tree-id31 . -1) (undo-tree-id32 . -1) ("a" . -68) (undo-tree-id33 . -1) (undo-tree-id34 . -1) ("g" . -69) (undo-tree-id35 . -1) (undo-tree-id36 . -1) ("e" . -70) (undo-tree-id37 . -1) (undo-tree-id38 . -1) ("s" . -71) (undo-tree-id39 . -1) (undo-tree-id40 . -1) ("/" . -72) (undo-tree-id41 . -1) (undo-tree-id42 . -1) ("b" . -73) (undo-tree-id43 . -1) (undo-tree-id44 . -1) ("a" . -74) (undo-tree-id45 . -1) (undo-tree-id46 . -1) ("n" . -75) (undo-tree-id47 . -1) (undo-tree-id48 . -1) ("n" . -76) (undo-tree-id49 . -1) (undo-tree-id50 . -1) ("e" . -77) (undo-tree-id51 . -1) (undo-tree-id52 . -1) ("r" . -78) (undo-tree-id53 . -1) (undo-tree-id54 . -1) ("." . -79) (undo-tree-id55 . -1) (undo-tree-id56 . -1) ("p" . -80) (undo-tree-id57 . -1) (undo-tree-id58 . -1) ("n" . -81) (undo-tree-id59 . -1) (undo-tree-id60 . -1) ("g" . -82) (undo-tree-id61 . -1) (undo-tree-id62 . -1) ("\"" . -83) (undo-tree-id63 . -1) 84 (t 26021 25836 647844 179000)) nil (26021 26629 116640 902000) 0 nil])
+([nil nil (("
+" . -55) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (" " . -56) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (" " . -57) (undo-tree-id11 . -1) (undo-tree-id12 . -1) ("i" . -58) (undo-tree-id13 . -1) (undo-tree-id14 . -1) ("m" . -59) (undo-tree-id15 . -1) (undo-tree-id16 . -1) ("a" . -60) (undo-tree-id17 . -1) (undo-tree-id18 . -1) ("g" . -61) (undo-tree-id19 . -1) (undo-tree-id20 . -1) ("e" . -62) (undo-tree-id21 . -1) (undo-tree-id22 . -1) 63) nil (26021 26629 116558 98000) 0 nil])
+([nil nil ((55 . 56)) nil (26021 26629 116524 145000) 0 nil])
+([nil nil ((55 . 58)) nil (26021 26629 116521 750000) 0 nil])
+([nil nil (("\"" . -54) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (undo-tree-id2 . -1) ("
+" . -55) (undo-tree-id3 . -1) (undo-tree-id4 . 1) (" " . -56) (undo-tree-id5 . -1) (" " . -57) (undo-tree-id6 . -1) 58) nil (26021 26629 116516 606000) 0 nil])
+([nil nil ((54 . 55)) nil (26021 26629 116469 288000) 0 nil])
+([nil nil ((":" . -54) (undo-tree-id64 . -1) (undo-tree-id65 . -1) (undo-tree-id66 . -1) 55 (t 26021 26629 134572 781000)) nil (26021 26630 880204 419000) 0 nil])
+([nil nil ((54 . 55) (t 26021 26630 886570 139000)) nil (26021 26641 209874 482000) 0 nil])
+([nil nil ((":" . -54) (undo-tree-id67 . -1) (undo-tree-id68 . -1) 55) nil (26021 26641 209870 559000) 0 nil])
+([nil nil ((54 . 55)) nil (26021 26641 209837 324000) 0 nil])
+([nil nil (("
+" . -55) (undo-tree-id69 . -1) 56 (t 26021 26641 226554 560000)) nil (26021 26648 689471 332000) 0 nil])
+([nil nil ((55 . 58) (t 26021 26648 702543 303000)) nil (26021 26667 761648 403000) 0 nil])
+([nil nil ((58 . 61)) nil (26021 26667 761646 973000) 0 nil])
+([nil nil (("g" . -60) (undo-tree-id72 . -1) 61) nil (26021 26667 761645 346000) 0 nil])
+([nil nil ((60 . 63)) nil (26021 26667 761641 965000) 0 nil])
+([nil nil (("b" . -61) (undo-tree-id70 . -1) ("e" . -62) (undo-tree-id71 . -1) 63) nil (26021 26667 761639 242000) 0 nil])
+([nil nil ((61 . 67)) nil (26021 26667 761613 893000) 0 nil])
+([nil nil ((66 . 83)) nil (26021 26667 761604 987000) 0 nil])
+([nil nil (("  - title: \"What's Included in my webpage?\"
+    image: \"/images/service-1.png\"
+    content: \"**Navid** Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate\"
+    bulletpoints:
+      - \"10+ Pre-build pages\"
+      - \"95+ Google Pagespeed Score\"
+      - \"Build with Hugo and TailwindCSS for easy and customizable styling\"
+      - \"Fully responsive on all devices\"
+      - \"SEO-optimized for better search engine rankings\"
+      - \"**Open-source and free** for personal and commercial use\"
+    button:
+      enable: false
+      label: \"Get Started Now\"
+      link: \"#\"
+" . 222) (undo-tree-id73 . -659) (undo-tree-id74 . -659) (undo-tree-id75 . -659) (undo-tree-id76 . -659) (undo-tree-id77 . -659) (undo-tree-id78 . -659) (undo-tree-id79 . -659) (undo-tree-id80 . -658) (undo-tree-id81 . -658) (undo-tree-id82 . -658) (undo-tree-id83 . -658) (undo-tree-id84 . -658) (undo-tree-id85 . -659) (undo-tree-id86 . -659) 881 (t 26021 26667 778514 608000)) nil (26021 26714 918065 790000) 0 nil])
+([nil nil ((222 . 881)) nil (26021 26714 918015 381000) 0 nil])
+([nil nil ((881 . 1540)) nil (26021 26714 918013 881000) 0 nil])
+([nil nil (("  " . -882) (881 . 882)) nil (26021 26714 918010 912000) 0 nil])
+([nil nil (("      " . -1459) ("      " . -1434) ("      " . -1420) ("    " . -1412) ("      " . -1351) ("      " . -1299) ("      " . -1263) ("      " . -1193) ("      " . -1162) ("      " . -1138) ("    " . -1124) ("    " . -955) ("    " . -924) 1540) nil (26021 26714 917998 853000) 0 nil])
+([nil nil ((882 . 888) (t 26021 26714 938443 865000)) nil (26021 26818 265021 725000) 0 nil])
+([nil nil ((" " . -885) (undo-tree-id100 . -1) (undo-tree-id101 . -1) (" " . -886) (undo-tree-id102 . -1) (undo-tree-id103 . -1) (" " . -887) (undo-tree-id104 . -1) (undo-tree-id105 . -1) 888) nil (26021 26818 265019 149000) 0 nil])
+([nil nil ((927 . 930)) nil (26021 26818 265006 430000) 0 nil])
+([nil nil ((930 . 932)) nil (26021 26818 265004 279000) 0 nil])
+([nil nil ((963 . 968)) nil (26021 26818 265002 662000) 0 nil])
+([nil nil ((1097 . 1098) (" " . 1097) (undo-tree-id99 . -1) 1098) nil (26021 26818 265000 256000) 0 nil])
+([nil nil (("	" . -1097) (undo-tree-id98 . -1) 1098) nil (26021 26818 264993 459000) 0 nil])
+([nil nil ((1136 . 1141)) nil (26021 26818 264989 673000) 0 nil])
+([nil nil ((1155 . 1160)) nil (26021 26818 264987 625000) 0 nil])
+([nil nil ((1184 . 1189)) nil (26021 26818 264985 652000) 0 nil])
+([nil nil ((1220 . 1225)) nil (26021 26818 264983 867000) 0 nil])
+([nil nil ((1295 . 1300)) nil (26021 26818 264982 120000) 0 nil])
+([nil nil ((1336 . 1341)) nil (26021 26818 264980 412000) 0 nil])
+([nil nil ((1393 . 1398)) nil (26021 26818 264978 339000) 0 nil])
+([nil nil ((1459 . 1464)) nil (26021 26818 264976 433000) 0 nil])
+([nil nil ((1472 . 1477)) nil (26021 26818 264974 678000) 0 nil])
+([nil nil ((1491 . 1496)) nil (26021 26818 264973 233000) 0 nil])
+([nil nil ((1160 . 1162)) nil (26021 26818 264971 904000) 0 nil])
+([nil nil ((1191 . 1193)) nil (26021 26818 264970 591000) 0 nil])
+([nil nil ((1229 . 1231)) nil (26021 26818 264969 658000) 0 nil])
+([nil nil ((1306 . 1308)) nil (26021 26818 264968 578000) 0 nil])
+([nil nil ((1349 . 1351)) nil (26021 26818 264967 404000) 0 nil])
+([nil nil ((1408 . 1410)) nil (26021 26818 264966 334000) 0 nil])
+([nil nil ((" " . -1161) (undo-tree-id97 . -1) 1162) nil (26021 26818 264964 941000) 0 nil])
+([nil nil ((" " . 1191)) nil (26021 26818 264961 798000) 0 nil])
+([nil nil ((" " . 1228)) nil (26021 26818 264960 599000) 0 nil])
+([nil nil ((" " . 1304)) nil (26021 26818 264959 416000) 0 nil])
+([nil nil ((" " . 1346)) nil (26021 26818 264958 211000) 0 nil])
+([nil nil ((" " . 1404)) nil (26021 26818 264956 767000) 0 nil])
+([nil nil ((" " . -1140) (undo-tree-id96 . -1) 1141) nil (26021 26818 264955 334000) 0 nil])
+([nil nil ((" " . -884) (undo-tree-id94 . -1) (undo-tree-id95 . -1) 885) nil (26021 26818 264952 0) 0 nil])
+([nil nil ((928 . 930)) nil (26021 26818 264946 738000) 0 nil])
+([nil nil ((" " . -927) (undo-tree-id91 . -1) (" " . -928) (undo-tree-id92 . -1) (" " . -929) (undo-tree-id93 . -1) 930) nil (26021 26818 264944 737000) 0 nil])
+([nil nil ((" " . 962)) nil (26021 26818 264936 912000) 0 nil])
+([nil nil ((" " . -1465) (undo-tree-id90 . -1) 1466) nil (26021 26818 264935 381000) 0 nil])
+([nil nil ((1465 . 1467)) nil (26021 26818 264931 857000) 0 nil])
+([nil nil ((" " . -1465) (undo-tree-id88 . -1) (" " . -1466) (undo-tree-id89 . -1) 1467) nil (26021 26818 264929 583000) 0 nil])
+([nil nil ((" " . 1477)) nil (26021 26818 264923 178000) 0 nil])
+([nil nil ((" " . 1495)) nil (26021 26818 264921 954000) 0 nil])
+([nil nil ((1520 . 1524)) nil (26021 26818 264920 763000) 0 nil])
+([nil nil ((1477 . 1479)) nil (26021 26818 264919 461000) 0 nil])
+([nil nil ((1497 . 1499)) nil (26021 26818 264918 342000) 0 nil])
+([nil nil ((1529 . 1530)) nil (26021 26818 264917 76000) 0 nil])
+([nil nil ((" " . -1529) (undo-tree-id87 . -1) 1530) nil (26021 26818 264913 579000) 0 nil])
+([nil nil ((1528 . 1530)) nil (26021 26818 264883 37000) 0 nil])
+([nil nil (("
+  - title: \"What's Included in my webpage?\"
+    image: \"/images/service-1.png\"
+    content: \"**Navid** Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugoproject. What's Included in Hugoplate\"
+    bulletpoints:
+      - \"10+ Pre-build pages\"
+      - \"95+ Google Pagespeed Score\"
+      - \"Build with Hugo and TailwindCSS for easy and customizable styling\"
+      - \"Fully responsive on all devices\"
+      - \"SEO-optimized for better search engine rankings\"
+      - \"**Open-source and free** for personal and commercial use\"
+    button:
+      enable: false
+      label: \"Get Started Now\"
+      link: \"#\"
+" . 881) (undo-tree-id106 . -659) (undo-tree-id107 . -1) (undo-tree-id108 . -3) (undo-tree-id109 . -649) (undo-tree-id110 . -649) (undo-tree-id111 . -591) (undo-tree-id112 . -591) (undo-tree-id113 . -591) (undo-tree-id114 . -591) (undo-tree-id115 . -591) (undo-tree-id116 . -659) (undo-tree-id117 . -659) (undo-tree-id118 . -659) 1540 (t 26021 26818 282289 680000)) nil (26021 26894 963155 788000) 0 nil])
+([nil nil ((881 . 1540)) nil (26021 26894 963104 539000) 0 nil])
+([nil current ((1540 . 2199)) nil (26021 26894 963095 891000) 0 nil])
+nil

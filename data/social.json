@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "twitter",
+      "icon": "fab fa-twitter",
+      "link": "https://twitter.com/namousavi"
+    },
+    {
+      "name": "gitlab",
+      "icon": "fab fa-gitlab",
+      "link": "https://www.gitlab.com/nmousavi"
+    },
+    {
+      "name": "linkedin",
+      "icon": "fab fa-linkedin",
+      "link": "https://www.linkedin.com/in/navid-mousavi"
+    },
+    {
+      "name": "instagram",
+      "icon": "fab fa-instagram",
+      "link": "https://www.instagram.com/navmou"
+    }
+  ]
+}
