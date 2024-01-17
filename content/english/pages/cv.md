@@ -7,8 +7,19 @@ description: "Latest version of my CV"
 # save as draft
 draft: false
 ---
-##### To download my one page CV click [<u>here</u>](files/one_page_CV.pdf) and for the extended version see [<u>here</u>](files/extended_CV.pdf).
-##### If you need the LaTeX sources you can find them [<u>here</u>](gitlab.com/nmousavi/CV).<p>&nbsp;</p>
+##### To download my single-page CV click [<u>here</u>](pdfs/single.pdf) and for the extended version see [<u>here</u>](pdfs/academic.pdf).
+##### If you need the LaTeX sources you can find them [<u>here</u>](https://gitlab.com/nmousavi/cv).<p>&nbsp;</p>
+<hr>
+
+### Affiliation
+
+**Department of Physics**, University of Gothenburg, Gothenburg, Sweden.<br>
+Origovägen 6 b<br>
+41296 Göteborg<br>
+
+Links: [Institutional homepage](https://www.gu.se/en/about/find-staff/sayednavidmousavi), 
+[Google Scholar](https://scholar.google.com/citations?user=QTd-sjIAAAAJ&hl=en&oi=ao)
+
 <hr>
 
 ### Research Interests
@@ -43,7 +54,7 @@ I used TensorFlow and PyTorch libraries in Python.
 
 {{< tab "M.Sc. of Physics" >}}
 
-##### Shiraz University, Iran
+##### Shiraz University, Iran (*Sep. 2016 - Sep. 2018*)
 
 ###### Statistical properties of particle spread in quenched random media
 
@@ -60,7 +71,7 @@ and analyzed the data using Python and MATLAB.
 
 {{< tab "B.Sc. of Physics" >}}
 
-##### Shiraz University, Iran
+##### Shiraz University, Iran (*Sep. 2011 - Sep. 2016*)
 
 ###### Kuramoto model simulation of a system of oscillators
 

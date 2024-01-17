@@ -35,7 +35,7 @@ features:
         [<u>Licentiate thesis</u>](https://gupea.ub.gu.se/handle/2077/71497), and soon my PhD thesis :-).<br>
 	<p>&nbsp;</p>
         You can find more about me in [<u>About me</u>](about)(obviously!) and my 
-	academic activities in [<u>CV</u>](CV).<p>&nbsp;</p> <p>&nbsp;</p> <hr>
+	academic activities in [<u>CV</u>](cv).<p>&nbsp;</p> <p>&nbsp;</p> <hr>
 
         [1][ **Life at low Reynolds number**. American journal of physics 45.1 (1977): 3-11.](https://www.damtp.cam.ac.uk/user/gold/pdfs/purcell.pdf)<br>
         [2][ **Two hundred years of zooplankton vertical migration research**. Biological Reviews 96.4 (2021): 1547-1589.](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12715)<br>
