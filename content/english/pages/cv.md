@@ -1,25 +1,23 @@
 ---
 title: "CV"
 # meta title
-meta_title: "CV"
+meta_title: "my CV"
 # meta description
 description: "Latest version of my CV"
 # save as draft
 draft: false
 ---
-##### To download my single-page CV click [<u>here</u>](pdfs/single.pdf) and for the extended version see [<u>here</u>](pdfs/academic.pdf).
+##### To download my single-page CV click [<u>here</u>](../pdfs/single.pdf) and for the extended version see [<u>here</u>](../pdfs/academic.pdf).
 ##### If you need the LaTeX sources you can find them [<u>here</u>](https://gitlab.com/nmousavi/cv).<p>&nbsp;</p>
 <hr>
 
 ### Affiliation
 
 **Department of Physics**, University of Gothenburg, Gothenburg, Sweden.<br>
-Origovägen 6 b<br>
-41296 Göteborg<br>
 
 Links: [Institutional homepage](https://www.gu.se/en/about/find-staff/sayednavidmousavi), 
-[Google Scholar](https://scholar.google.com/citations?user=QTd-sjIAAAAJ&hl=en&oi=ao)
-
+[Google Scholar](https://scholar.google.com/citations?user=QTd-sjIAAAAJ&hl=en&oi=ao),
+[Contact](../contact)
 <hr>
 
 ### Research Interests
@@ -208,14 +206,41 @@ September 2012 to September 2015.
 ### Presentation
 
 - **Emergent counter-current swimming: an efficient strategy for plankton to avoid high strain**<br>
-*Cloud physics on the Zugspitze, Schneefernerhaus, Germany, 2023*
+*Cloud physics on the Zugspitze, Schneefernerhaus, Germany, April 2023*
 - **Active strategy to avoid high strain regions in plankton navigation**<br>
-*Particle growth in turbulence, Nordita, Sweden, 2023*
-- **Optimal vertical navigation of microswimmers in steady flow**<br>
-*Summer school on active matter and complex media, Corsica, France, 2022 (Poster)*
+*Particle growth in turbulence, Nordita, Sweden, March 2023*
+- **Navigation of micro-swimmers in steady flow: the importance of symmetries**<br>
+*Summer school on active matter and complex media, Corsica, France, September 2022*
 - **Active gyrotactic stability of microswimmers**<br>
-*Quantitative AI in Complex Fluids and Complex Flows: Challenges and Benchmarks,Centro Enrico Fermi, Rome, Italy, 2022*
+*Quantitative AI in Complex Fluids and Complex Flows: Challenges and Benchmarks,Centro Enrico Fermi, Rome, Italy, July 2022*
+- **Optimal Vertical Navigation of Microswimmers in Steady Flow**<br>
+*7th Warsaw school of statistical physics, Sandomierz, Poland, June 2022*
 - **Cartwheel galaxy’s ULX and HLX sources**<br>
-*International school for young astronomers (ISYA), IPM, Tehran, Iran, 2016*
+*International school for young astronomers (ISYA), IPM, Tehran, Iran, August 2016*
 - **Introduction to CCDs and CMOSs**<br>
-*Physics department, Shiraz University, Shiraz, Iran, 2015*
+*Physics department, Shiraz University, Shiraz, Iran, November 2015*
+
+<hr>
+
+### International Schools, Workshops, and Conferences
+
+- **[Complex motion in fluids](https://sites.google.com/cam.ac.uk/complexmotioninfluids2023/home)**<br>
+*Cambridge University, Cambridge, UK, July 2023*
+- **[Cloud physics on the Zugspitze](http://gu-statphys.org/index.php/activities/cloud-physics-on-the-zugspitze)**<br>
+*Schneefernerhaus, Germany, April 2023*
+- **[Particle growth in turbulence](https://indico.fysik.su.se/event/7880/)**<br>
+*Nordita, Stockholm, Sweden, March 2023*
+- **[Summer school on active matter and complex media](https://liphy.univ-grenoble-alpes.fr/en/cargese2022)**<br>
+*Corsica, France, September 2022*
+- **[Quantitative AI in Complex Fluids and Complex Flows: Challenges and Benchmarks](https://biferale.web.roma2.infn.it/test-workshop/)**<br>
+*Centro Enrico Fermi, Rome, Italy, July 2022*
+- **[7th Warsaw School of Statistical Physics](https://www.fuw.edu.pl/~wssph/)**<br>
+*Institute of Theoretical Physics, Sandomierz, Poland, June 2022• Workshop on Non-equilibrium Soft Matter*
+- **[Workshop on Non-equilibrium Soft Matter](https://nano.ipm.ac.ir/nesm/index.jsp)**<br>
+*Institute for Research in Fundamental Sciences (IPM), Tehran, Iran, April 2019*
+- **[Science with small telescopes](https://obs.shirazu.ac.ir/-/science-with-small-telescopes)**<br>
+*Biruni Observatory, Shiraz, Iran, October 2017*
+- **[Spring College on the Physics of Complex Systems](https://indico.ictp.it/event/7958/)**<br>
+*International Center for Theoretical Physics (ICTP), Trieste, Italy, April 2017*
+- **[International school for young astronomers (ISYA)](https://astro.ipm.ac.ir/isya2016/index.jsp)**<br>
+*International Astronomical Union, IPM, Tehran, Iran, August 2016*

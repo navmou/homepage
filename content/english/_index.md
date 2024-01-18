@@ -29,10 +29,10 @@ features:
         Then I can (maybe!) see how does such a swimmer optimally reach certain goals. For example, 
         [<u>diel vertical migration</u>](https://en.wikipedia.org/wiki/Diel_vertical_migration), which is claimed to be 
         the largest biomass migration happening everyday on Earth, is a long standing open question [2], that we tried
-        to study, and the results are summarized in papers [3] and [4].   
+        to study from a mechanical prespective. The results are summarized in papers [3] and [4].   
         For the **smart** part, I use machine learning. Among different machine learning approaches, **reinforcement learning** [5]
-        is a great framework to be used in solving this problem. If you are interested you can read more in my 
-        [<u>Licentiate thesis</u>](https://gupea.ub.gu.se/handle/2077/71497), and soon my PhD thesis :-).<br>
+        is a great framework to be used in solving this problem. If you are interested, you can read more in my 
+        [<u>Licentiate thesis</u>](https://gupea.ub.gu.se/handle/2077/71497), and soon, my PhD thesis :-).<br>
 	<p>&nbsp;</p>
         You can find more about me in [<u>About me</u>](about)(obviously!) and my 
 	academic activities in [<u>CV</u>](cv).<p>&nbsp;</p> <p>&nbsp;</p> <hr>

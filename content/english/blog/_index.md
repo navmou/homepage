@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Welcome to my Blog!"
 meta_title: ""
-description: "this is meta description"
+description: "Navid Mousavi's Blog"
 ---

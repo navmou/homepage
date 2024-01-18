@@ -68,7 +68,7 @@ target = '$1'
 
 ############################# Outputs ############################
 [outputs]
-home = ["HTML", "RSS", "JSON" , "WebAppManifest", "SearchIndex"]
+home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
 
 ############################# Imaging ############################
 [imaging]
