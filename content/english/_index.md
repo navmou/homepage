@@ -18,7 +18,7 @@ features:
         at the [<u>department of physics</u>](https://www.gu.se/en/physics) 
         of [<u>Gothenburg university</u>](https://www.gu.se/en), in Sweden.
         My research is focused on active matter physics. More specifically, I study the 
-        the optimal navigation strategies of micro-swimmers, such as [<u>Plankton</u>](https://en.wikipedia.org/wiki/Plankton) in complex flows. <br>
+        optimal navigation strategies of micro-swimmers, such as [<u>Plankton</u>](https://en.wikipedia.org/wiki/Plankton) in complex flows. <br>
         These small creatures, due to their tiny body size, live in viscous fluid regime, and therefore their experience
         of swimming is quite different from ours [1]. However, they still have an amazing perception of their environment 
         and limited control over their navigation, hence the name Plankton (Plankton means drifter/wanderer).

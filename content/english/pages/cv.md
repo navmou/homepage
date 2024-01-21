@@ -28,7 +28,7 @@ Active matter, Biophysics, Machine learning, Fluid mechanics
 ### Education
 
 {{< tabs >}}
-{{< tab "PhD of Physics" >}}
+{{< tab "Ph.D. of Physics" >}}
 
 ##### University of Gothenburg, Sweden (*Jan. 2020 - Present*)
 
