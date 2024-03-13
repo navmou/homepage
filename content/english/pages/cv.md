@@ -99,7 +99,7 @@ inch telescopes of the observatory and various detectors.
 
 1. **Efficient survival strategy for zooplankton in turbulence** <br> 
 *<u>N. Mousavi</u>*, J. Qiu, B. Mehlig, L. Zhao, K. Gustavsson<br>
-Submitted to Physical Review Letters, arXiv:2309.09641 (2023).
+Submitted to Physical Review Research, arXiv:2309.09641 (2023).
 1. **Smart microswimmers in complex flows**<br>
 *<u>N. Mousavi</u>*<br>
 Licentiate thesis, ISBN 978-91-8009-831-1 (2022).
@@ -205,9 +205,11 @@ September 2012 to September 2015.
 
 ### Presentation
 
-- **Emergent counter-current swimming: an efficient strategy for plankton to avoid high strain**<br>
-*Cloud physics on the Zugspitze, Schneefernerhaus, Germany, April 2023*
+- **Emergent counter-current swimming of zooplankton**          [slide](../pdfs/nordita_mar_2024.pdf) <br>
+*13th Nordic workshop  on statistical physics, Nordita, Sweden, March 2024*
 - **Active strategy to avoid high strain regions in plankton navigation**<br>
+*Cloud physics on the Zugspitze, Schneefernerhaus, Germany, April 2023*
+- **Plankton navigation in turbulent flow**<br>
 *Particle growth in turbulence, Nordita, Sweden, March 2023*
 - **Navigation of micro-swimmers in steady flow: the importance of symmetries**<br>
 *Summer school on active matter and complex media, Corsica, France, September 2022*
@@ -224,6 +226,8 @@ September 2012 to September 2015.
 
 ### International Schools, Workshops, and Conferences
 
+- **[13th Nordic worksho on statistical physics](https://indico.fysik.su.se/event/8446/overview)**<br>
+*Nordita, Stockholm, Sweden, March 2024*
 - **[Complex motion in fluids](https://sites.google.com/cam.ac.uk/complexmotioninfluids2023/home)**<br>
 *Cambridge University, Cambridge, UK, July 2023*
 - **[Cloud physics on the Zugspitze](http://gu-statphys.org/index.php/activities/cloud-physics-on-the-zugspitze)**<br>
