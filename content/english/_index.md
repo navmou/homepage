@@ -32,7 +32,7 @@ features:
         to study from a mechanical prespective. The results are summarized in papers [3] and [4].   
         For the **smart** part, I use machine learning. Among different machine learning approaches, **reinforcement learning** [5]
         is a great framework to be used in solving this problem. If you are interested, you can read more in my 
-        [<u>Licentiate thesis</u>](https://gupea.ub.gu.se/handle/2077/71497), and soon, my PhD thesis :-).<br>
+        [<u>PhD thesis</u>](https://gupea.ub.gu.se/handle/2077/80594).<br>
 	<p>&nbsp;</p>
         You can find more about me in [<u>About me</u>](about)(obviously!) and my 
 	academic activities in [<u>CV</u>](cv).<p>&nbsp;</p> <p>&nbsp;</p> <hr>
