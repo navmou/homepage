@@ -96,10 +96,15 @@ inch telescopes of the observatory and various detectors.
 <hr>
 
 ### Publication
-
+1. **Microswimmer navigation in turbulence** <br>
+*<u>N. Mousavi</u>* <br>
+Doctoral thesis, ISBN 978-91-8069-752-1
+1. **Short term vs. long term: optimization of microswimmer navigation on different time horizons** <br>
+*<u>N. Mousavi</u>* , J. Qiu, L. Zhao, B. Mehlig, K. Gustavsson <br>
+Submitted to Physical Review X Life, arXiv:2404.19561 (2024).
 1. **Efficient survival strategy for zooplankton in turbulence** <br> 
 *<u>N. Mousavi</u>*, J. Qiu, B. Mehlig, L. Zhao, K. Gustavsson<br>
-Submitted to Physical Review Research, arXiv:2309.09641 (2023).
+Accepted for publication at Physical Review Research, arXiv:2309.09641 (2023).
 1. **Smart microswimmers in complex flows**<br>
 *<u>N. Mousavi</u>*<br>
 Licentiate thesis, ISBN 978-91-8009-831-1 (2022).
