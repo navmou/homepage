@@ -22,12 +22,11 @@ was imagining my future as an astronomy professor. However, life pushed me in an
 persued my master studies at complex systems group at Shiraz university. 
 For my master thesis I worked on
 [anomalous diffusion](https://en.wikipedia.org/wiki/Anomalous_diffusion) of tracers in random velocity fields.
-A brief summary can be found in [here](../pdfs/phd_interview_presentation.pdf), which is the slides I prepared for my PhD interview.
+A brief summary can be found in [here](../pdfs/phd_interview_presentation.pdf).
 Starting my PhD in the beginning of 2020, under supervision of 
 [Kristian Gustavsson](https://scholar.google.com/citations?user=w4AWzOoAAAAJ&hl=sv),
-at [Gothenburg university](https://www.gu.se/en) 
-[physics department](https://www.gu.se/en/physics),
-I have been working on somewhat similar project to my master thesis. However, it is much more realistic (yet far from the reality!). 
+at the [physics department](https://www.gu.se/en/physics) of [Gothenburg university](https://www.gu.se/en),
+I have been working on somewhat similar project to my master thesis. However, it is much more realistic. 
 I work on active particles swimming strategies in turbulent flows. My work, includes fluid mechanics, active matter, 
 non-equilibrium physics, and machine learning. Also, since my studies are mainly focused on Plankton, 
 I would dare to say it touches biology as well ([I do not want to make biologists angry](https://elifesciences.org/articles/40018)!).
@@ -37,18 +36,16 @@ Sweden. One needs to write a thesis and have a less formal defense with opponent
 [Enrico Calzavarini](http://www.ecalzavarini.info/) as my opponent in June 2022 and if you like 
 you can check out my Licentiate thesis [here](https://gupea.ub.gu.se/handle/2077/71497). If everything goes as planned, 
 I will be defending my PhD in 2024.
-Beside research, I do enjoy teaching, and you can find some of the teaching notes I prepared under [Teaching](../teaching) tab.
 
 Apart from physics, I am intersted in philosophy, photography, and cooking. Also, who is not interested in politics? ;-)<br>
 Philosophy in general, and more specifically philosophy of science, and history of philosophy and science has always been 
 my interest in reading. In photography, I am in love with astrophotography. This is in fact stemming from my love for astronomy,
 and since my last shift of gears in carrier, it is the small hole that makes me feel connected yet. There are many great 
-astrophotographers, but I cannot ignore mentioning [Babak Tafreshi](https://babaktafreshi.com/) who has been an idol for me.
+astrophotographers out there, but I cannot ignore mentioning [Babak Tafreshi](https://babaktafreshi.com/).
 Unfortunately, since Sweden is most of time cloudy, there is not many chances of capturing the sky. This is why I got interested in
-street photography since 2022. In street photography, I admire (like many others)
-[Henri Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_Cartier-Bresson), who is well known for his book
+street photography since 2022. In street photography, I admire works by [Henri Cartier-Bresson](https://en.wikipedia.org/wiki/Henri_Cartier-Bresson), who is well known for his book
 "[The Decisive Moment](https://www.goodreads.com/en/book/show/6048685)". Among more recent photographers,
-I enjoy works of [Alan Schaller,](http://alanschaller.com/) who is amazing (in my view obviously) in capturing the contrast.
+I enjoy works of [Alan Schaller,](http://alanschaller.com/) who is amazing in capturing the contrast.
 You can find a few of the photos that I have taken in [Photography](../photography), also I share sometimes on 
 [Instagram](https://www.instagram.com/navmou) and [Flickr](https://www.flickr.com/people/189947020@N08/). 
 
