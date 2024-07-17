@@ -7,7 +7,7 @@ draft: false
 ---
 Sunset by the "[kvinna vid havet](https://goteborgkonst.se/artwork/kvinna-vid-havet-sjomanshustrun)", which
 literally means "woman by the sea", and is the symbol of mothers/women that were waiting for their husbands/sons 
-sailing. This is taken by a 400mm mirror lens, and Canon90D.
+sailing. I took this using a 400mm mirror lens, and Canon90D.
 <hr>
 
 ### A glimpse of biography
@@ -31,11 +31,17 @@ I work on active particles swimming strategies in turbulent flows. My work, incl
 non-equilibrium physics, and machine learning. Also, since my studies are mainly focused on Plankton, 
 I would dare to say it touches biology as well ([I do not want to make biologists angry](https://elifesciences.org/articles/40018)!).
 
-The PhD in Sweden is actually divided into two parts. First part (24-30 months) is called Licentiate and is a real degree in 
-Sweden. One needs to write a thesis and have a less formal defense with opponent. I did my defense with 
-[Enrico Calzavarini](http://www.ecalzavarini.info/) as my opponent in June 2022 and if you like 
-you can check out my Licentiate thesis [here](https://gupea.ub.gu.se/handle/2077/71497). If everything goes as planned, 
-I will be defending my PhD in 2024.
+The PhD in Sweden is actually divided into two parts. First part (24-30 months) is known as *Licentiate* which is a real degree in 
+Sweden. One needs to write a thesis and have a less formal defense with opponent and can graduate with a Licentiate degree. 
+I did my defense with [Enrico Calzavarini](http://www.ecalzavarini.info/) as my opponent in June 2022 and if you like 
+you can check out my Licentiate thesis [here](https://gupea.ub.gu.se/handle/2077/71497). <br>
+Two years leater, I did my doctoral defense on May 27, 2024, with [Holger Stark](https://www.tu.berlin/ag-stark/mitglieder/prof-dr-holger-stark) 
+as the opponent, and the defense committee members were [Ann Larsson](https://www.gu.se/en/about/find-staff/annlarsson), 
+[Enrico Calzavarini](http://www.ecalzavarini.info/), and [Federico Toschi](https://www.tue.nl/en/research/researchers/federico-toschi).
+The recording of my defense presentation can be found [here](https://youtu.be/lrPcre6tV8o?si=b7x22VEaOZaLJ6y6), and the thesis is
+publicly accessible at the Gothenburg University's library [here](https://gupea.ub.gu.se/handle/2077/80594).
+
+
 
 Apart from physics, I am intersted in philosophy, photography, and cooking. Also, who is not interested in politics? ;-)<br>
 Philosophy in general, and more specifically philosophy of science, and history of philosophy and science has always been 

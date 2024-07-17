@@ -30,9 +30,9 @@ Active matter, Biophysics, Machine learning, Fluid mechanics
 {{< tabs >}}
 {{< tab "Ph.D. of Physics" >}}
 
-##### University of Gothenburg, Sweden (*Jan. 2020 - Present*)
+##### University of Gothenburg, Sweden (*Jan. 2020 - May 2024*)
 
-###### Thesis: Optimal navigation strategies of Plankton
+###### Thesis: Microswimmer navigation in turbulence
 
 ###### Supervisor: Kristian Gustavsson
 
@@ -104,7 +104,7 @@ Doctoral thesis, ISBN 978-91-8069-752-1
 Submitted to Physical Review X Life, arXiv:2404.19561 (2024).
 1. **Efficient survival strategy for zooplankton in turbulence** <br> 
 *<u>N. Mousavi</u>*, J. Qiu, B. Mehlig, L. Zhao, K. Gustavsson<br>
-Accepted for publication at Physical Review Research, arXiv:2309.09641 (2023).
+Physical Review Research 6 (2), L022034.
 1. **Smart microswimmers in complex flows**<br>
 *<u>N. Mousavi</u>*<br>
 Licentiate thesis, ISBN 978-91-8009-831-1 (2022).
