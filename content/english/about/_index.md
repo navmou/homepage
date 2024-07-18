@@ -52,7 +52,7 @@ This led to my interest in street photography in 2022. In this genre, I admire [
 known for his book [*The Decisive Moment*](https://www.goodreads.com/en/book/show/6048685). 
 Among contemporary photographers, I enjoy [Alan Schaller](https://alanschaller.com/)'s work, 
 particularly his mastery in illustrating contrast.
-You can find some of my photos in the [Photography](../photography) tab. Also, I occasionally share photos on [Instagram](https://www.instagram.com/navmou)
+You can find some of my photos in the Photography tab. Also, I occasionally share photos on [Instagram](https://www.instagram.com/navmou)
 and [Flickr](https://www.flickr.com/people/189947020@N08/).
 
 I write blog-posts, every now and then, which can be found in [Blog](../blog).
