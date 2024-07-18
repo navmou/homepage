@@ -42,7 +42,7 @@ The recording of my defense presentation can be found [here](https://youtu.be/lr
 publicly accessible through Gothenburg University's library website [here](https://gupea.ub.gu.se/handle/2077/80594).
 
 
-Apart from physics, I am interested in philosophy, photography, and cooking. Who isn’t intrigued by politics? <br>
+Apart from physics, I am interested in philosophy, photography, and cooking, also who isn’t intrigued by politics ;-)? <br>
 My reading interests include philosophy in general, with a particular focus on the philosophy of science and 
 the history of philosophy and science. In photography, I am passionate about astrophotography, which stems from my 
 love for astronomy. Since my career shift, astrophotography has been my way of staying connected to the stars. 
