@@ -7,7 +7,7 @@ description: "Latest version of my CV"
 # save as draft
 draft: false
 ---
-##### To download my single-page CV click [<u>here</u>](../pdfs/single.pdf) and for the extended version see [<u>here</u>](../pdfs/academic.pdf).
+##### To download my single-page CV click [<u>here</u>](https://gitlab.com/nmousavi/cv/-/raw/main/single_page/single_page_CV.pdf?ref_type=heads&inline=false) and for the extended version see [<u>here</u>](https://gitlab.com/nmousavi/cv/-/raw/main/Academic/CV.pdf?ref_type=heads&inline=false).
 ##### If you need the LaTeX sources you can find them [<u>here</u>](https://gitlab.com/nmousavi/cv).<p>&nbsp;</p>
 <hr>
 
