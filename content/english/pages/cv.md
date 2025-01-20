@@ -73,22 +73,69 @@ and analyzed the data using Python and MATLAB.
 
 ###### Kuramoto model simulation of a system of oscillators
 
-Studied synchronization transition in a one-dimensional
-periodic system of phase-oscillators interacting with asymmetric periodic function. The
-oscillators interact with a saw-tooth function with the control parameter and the oscillators
-frequencies are distributed according to a normal Gaussian probability distribution function.
-Numerical simulations showed that the system exhibits a second order phase transition and
-the critical point of the model found to be extremely depending on the asymmetric control
-parameter. I used C for the numerical simulation and Octave for the analysis of the results.
+Investigated synchronization transitions in a one-dimensional periodic system of phase oscillators interacting via an
+asymmetric periodic function. Numerical simulations revealed that the system undergoes a second-order phase transi-
+tion, with the critical point highly dependent on the asymmetry control parameter. Conducted numerical simulations
+using C and analyzed the results with GNU Octave.
 
 <hr>
 
 ###### Light curve and frequency analysis of delta scuti variable star
 
-Observed the variable star, AE UMa, at [Biruni observatory](https://obs.shirazu.ac.ir), Shiraz University. Analyzed the data using different 
-astronomical software and packages and reported the result to IBVS(Information Bulletin on Variable Stars). 
-In the process I learned observational techniques, image processing, and data reduction, working with 11 and 20
-inch telescopes of the observatory and various detectors.
+Conducted observations of the variable star AE UMa at the [Biruni Observatory](https://obs.shirazu.ac.ir), Shiraz University. Analyzed data
+using various astronomical software and packages, and reported the results to the Information Bulletin on Variable
+Stars (IBVS). Gained experience in observational techniques, image processing, and data reduction while working with
+11- and 20-inch telescopes and different astronomical imaging detectors.
+
+{{< /tab >}}
+{{< /tabs >}}
+
+<hr>
+
+### Experience 
+
+{{< tabs >}}
+
+{{< tab "Researcher" >}}
+
+- **Gothenburg University**, Gothenburg, Sweden, *Jan 2020 - Present*<br>
+Developed mathematical models for active microswimmers navigating turbulent fluid environments, focusing on optimal
+control strategies for tasks such as vertical migration and high-strain avoidance. Utilized reinforcement learning (RL)
+to identify optimal strategies and flow signals exploitable by biological swimmers. Conducted main simulations using
+C/C++ and analyzed resulting data with Python libraries (NumPy, SciPy, pandas, Matplotlib, Plotly). For deep RL
+training, employed TensorFlow and PyTorch in Python.
+- **Beheshti University**, Tehran, Iran, *Jul 2019 - Dec 2019*<br>
+Investigated the first-passage time statistics for the generation of new pages in Wikipedia, modeled as a complex
+network. Utilized the Wikipedia Python API for data collection and analysis.
+- **Biruni Observatory**, Shiraz, Iran, *Sep 2013 - Apr 2016*<br>
+Studied variable stars through photometry, conducting observations and data collection with large-scale telescopes.
+Performed data reduction and analysis using various astronomical software and packages.
+{{< /tab >}}
+
+{{< tab "Data Scientist" >}}
+
+- **Tarjoman Club**, Shiraz, Iran, *Sep 2018 - Dec 2018*<br>
+Built a database of best-selling books, categorized into translated and non-translated (to Persian) groups.
+Used Python web-scraping libraries such as Beautifulsoup to collect
+the data and MongoDB for database management.
+
+{{< /tab >}}
+
+
+{{< tab "Founder" >}}
+- **Satvis Institute**, Shiraz, Iran, *Jan 2016 - Oct 2019*<br>
+Co-founded an institute for teaching astronomy using virtual reality glasses. Developed the course framework, created
+educational materials and videos, and taught the courses.
+
+{{< /tab >}}
+
+
+{{< tab "Manager" >}}
+
+- **Biruni Observatory**, Shiraz, Iran, *September 2015 - April 2018*<br>
+Organized and managed outreach activities, including public and private visits, courses, seminars, stargazing tours, and
+astronomical events. Also served as a board member of the Astronomy and Astrophysics Society of Shiraz University
+from September 2012 to September 2015.
 
 {{< /tab >}}
 {{< /tabs >}}
@@ -156,55 +203,12 @@ Information Bulletin on Variable Stars (IBVS) No. 6199, 2014
 
 <hr>
 
-### Experience 
-
-
-{{< tabs >}}
-{{< tab "Researcher" >}}
-
-- **Beheshti University**, Tehran, Iran, *July 2019 - December 2019*<br>
-Studied the first-passage time statistics of generation of new pages in Wikipedia as a complex network.
-Used Python API for Wikipedia for data collection and analysis.
-- **Biruni Observatory**, Shiraz, Iran, *September 2013 - April 2016*<br>
-Studied variable stars by photometry. Observation and data collection with large scale telescopes.
-Data reduction and analysis with various astronomical packages and software.
-
-{{< /tab >}}
-
-{{< tab "CEO" >}}
-- **Satvis Institute**, Shiraz, Iran, *January 2016 - October 2019*<br>
-Co-founded an institute for teaching astronomy using virtual reality glasses. Developed
-the framework for the courses, developed material and videos, and taught the courses.
-
-{{< /tab >}}
-
-{{< tab "Data Scientist" >}}
-
-- **Tarjoman Club**, Shiraz, Iran, *September 2018 - December 2018*<br>
-Built a database of best selling books, separated in translated/non-translated (to
-Persian) groups. Used Python web-scraping libraries such as Beautifulsoup to collect
-the data and MongoDB for database.
-
-{{< /tab >}}
-
-{{< tab "Manager" >}}
-
-- **Biruni Observatory**, Shiraz, Iran, *September 2015 - April 2018*<br>
-Organized and managed the outreach activities, including public and private visits, courses, seminars,
-stargazing tours, and astronomical events.
-Also served as board member of Astronomy and Astrophysics society of Shiraz University during
-September 2012 to September 2015.
-
-{{< /tab >}}
-{{< /tabs >}}
-
-<hr>
 
 ### Computational Skills
 
-- **Coding:** C/C++, Python, MATLAB, Octave, Mathematica
-- **Tools:** GIT, TensorFlow, Pytorch, scipy, numpy, pandas, BeautifulSoup, JSON, HDF5
-- **Text and Visualization:** LaTeX, Microsoft word, matplotlib, plotly, GIMP, Inkscape
+- **Coding:** C/C++, Python, MATLAB, GNU Octave, GNU Linux script, Mathematica
+- **Tools:** Git, TensorFlow, PyTorch, SciPy, NumPy, Pandas, BeautifulSoup, JSON, HDF5, Hugo, Wordpress
+- **Text and Visualization:** LaTeX, Microsoft word, Matplotlib, Plotly, GIMP, Inkscape, Photoshop
 
 <hr>
 
