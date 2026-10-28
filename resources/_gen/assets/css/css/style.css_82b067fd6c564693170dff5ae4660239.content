@@ -3147,11 +3147,6 @@ input#nav-toggle:checked ~ #nav-menu {
 
 @media (min-width: 768px) {
 
-  .md\:col-3 {
-    flex: 0 0 auto;
-    width: 25%;
-  }
-
   .md\:col-6 {
     flex: 0 0 auto;
     width: 50%;
