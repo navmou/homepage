@@ -16,6 +16,4 @@ draft: false
 
 #### Links
 
-[Instagram](https://instagram.com/navmou)
-
 [Flickr](https://www.flickr.com/people/189947020@N08/)
