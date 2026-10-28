@@ -13,16 +13,75 @@ draft: false
 
 ### Affiliation
 
-**Department of Physics**, University of Gothenburg, Gothenburg, Sweden.<br>
+**Advanced Engineering Team**, Aptiv, Gothenburg, Sweden.<br>
 
-Links: [Institutional homepage](https://www.gu.se/en/about/find-staff/sayednavidmousavi), 
 [Google Scholar](https://scholar.google.com/citations?user=QTd-sjIAAAAJ&hl=en&oi=ao),
 [Contact](../contact)
 <hr>
 
 ### Research Interests
 
-Active matter, Biophysics, Machine learning, Fluid mechanics
+Statistical physics, Machine learning, Fluid mechanics, Autonomous driving, Sensor fusion, Multi object tracking
+
+<hr>
+
+### Experience
+
+{{< tabs >}}
+
+
+{{< tab "Senior R&D Engineer" >}}
+
+- **Aptiv**, Gothenburg, Sweden, *Mar. 2025 - Present*<br>
+Research and development of advanced algorithms for ADAS features, with a focus on perception, sensor fusion, and multi-object tracking. Developing mathematical models and estimation algorithms that combine vision, radar, and map data to build a robust understanding of the vehicle's surroundings. Contributing to features for detecting and tracking road users and to road-modeling solutions that represent the geometry and structure of the road environment. Implementing, testing, and analyzing algorithms using C++, Python, MATLAB, and Git, alongside other tools for development, simulation, data analysis, and visualization.
+
+{{< /tab >}}
+
+
+{{< tab "Researcher" >}}
+
+- **Gothenburg University**, Gothenburg, Sweden, *Jan. 2020 - Present*<br>
+Developed mathematical models for active microswimmers navigating turbulent fluid environments, focusing on optimal
+control strategies for tasks such as vertical migration and high-strain avoidance. Utilized reinforcement learning (RL)
+to identify optimal strategies and flow signals exploitable by biological swimmers. Conducted main simulations using
+C/C++ and analyzed resulting data with Python libraries (NumPy, SciPy, pandas, Matplotlib, Plotly). For deep RL
+training, employed TensorFlow and PyTorch in Python.
+- **Beheshti University**, Tehran, Iran, *Jul. 2019 - Dec. 2019*<br>
+Investigated the first-passage time statistics for the generation of new pages in Wikipedia, modeled as a complex
+network. Utilized the Wikipedia Python API for data collection and analysis.
+- **Biruni Observatory**, Shiraz, Iran, *Sep. 2013 - Apr. 2016*<br>
+Studied variable stars through photometry, conducting observations and data collection with large-scale telescopes.
+Performed data reduction and analysis using various astronomical software and packages.
+{{< /tab >}}
+
+{{< tab "Data Scientist" >}}
+
+- **Tarjoman Club**, Shiraz, Iran, *Sep. 2018 - Dec. 2018*<br>
+Built a database of best-selling books, categorized into translated and non-translated (to Persian) groups.
+Used Python web-scraping libraries such as Beautifulsoup to collect
+the data and MongoDB for database management.
+
+{{< /tab >}}
+
+
+{{< tab "Founder" >}}
+- **Satvis Institute**, Shiraz, Iran, *Jan. 2016 - Oct. 2019*<br>
+Co-founded an institute for teaching astronomy using virtual reality glasses. Developed the course framework, created
+educational materials and videos, and taught the courses.
+
+{{< /tab >}}
+
+
+{{< tab "Manager" >}}
+
+- **Biruni Observatory**, Shiraz, Iran, *Sep. 2015 - Apr. 2018*<br>
+Organized and managed outreach activities, including public and private visits, courses, seminars, stargazing tours, and
+astronomical events. Also served as a board member of the Astronomy and Astrophysics Society of Shiraz University
+from September 2012 to September 2015.
+
+{{< /tab >}}
+{{< /tabs >}}
+
 <hr>
 
 ### Education
@@ -92,63 +151,13 @@ Stars (IBVS). Gained experience in observational techniques, image processing, a
 
 <hr>
 
-### Experience 
-
-{{< tabs >}}
-
-{{< tab "Researcher" >}}
-
-- **Gothenburg University**, Gothenburg, Sweden, *Jan 2020 - Present*<br>
-Developed mathematical models for active microswimmers navigating turbulent fluid environments, focusing on optimal
-control strategies for tasks such as vertical migration and high-strain avoidance. Utilized reinforcement learning (RL)
-to identify optimal strategies and flow signals exploitable by biological swimmers. Conducted main simulations using
-C/C++ and analyzed resulting data with Python libraries (NumPy, SciPy, pandas, Matplotlib, Plotly). For deep RL
-training, employed TensorFlow and PyTorch in Python.
-- **Beheshti University**, Tehran, Iran, *Jul 2019 - Dec 2019*<br>
-Investigated the first-passage time statistics for the generation of new pages in Wikipedia, modeled as a complex
-network. Utilized the Wikipedia Python API for data collection and analysis.
-- **Biruni Observatory**, Shiraz, Iran, *Sep 2013 - Apr 2016*<br>
-Studied variable stars through photometry, conducting observations and data collection with large-scale telescopes.
-Performed data reduction and analysis using various astronomical software and packages.
-{{< /tab >}}
-
-{{< tab "Data Scientist" >}}
-
-- **Tarjoman Club**, Shiraz, Iran, *Sep 2018 - Dec 2018*<br>
-Built a database of best-selling books, categorized into translated and non-translated (to Persian) groups.
-Used Python web-scraping libraries such as Beautifulsoup to collect
-the data and MongoDB for database management.
-
-{{< /tab >}}
-
-
-{{< tab "Founder" >}}
-- **Satvis Institute**, Shiraz, Iran, *Jan 2016 - Oct 2019*<br>
-Co-founded an institute for teaching astronomy using virtual reality glasses. Developed the course framework, created
-educational materials and videos, and taught the courses.
-
-{{< /tab >}}
-
-
-{{< tab "Manager" >}}
-
-- **Biruni Observatory**, Shiraz, Iran, *September 2015 - April 2018*<br>
-Organized and managed outreach activities, including public and private visits, courses, seminars, stargazing tours, and
-astronomical events. Also served as a board member of the Astronomy and Astrophysics Society of Shiraz University
-from September 2012 to September 2015.
-
-{{< /tab >}}
-{{< /tabs >}}
-
-<hr>
-
 ### Publication
 1. **Microswimmer navigation in turbulence** <br>
 *<u>N. Mousavi</u>* <br>
 Doctoral thesis, ISBN 978-91-8069-752-1
 1. **Short term vs. long term: optimization of microswimmer navigation on different time horizons** <br>
 *<u>N. Mousavi</u>* , J. Qiu, L. Zhao, B. Mehlig, K. Gustavsson <br>
-Submitted to Physical Review X Life, arXiv:2404.19561 (2024).
+Physical Review Research 7, 013258, 2025.
 1. **Efficient survival strategy for zooplankton in turbulence** <br> 
 *<u>N. Mousavi</u>*, J. Qiu, B. Mehlig, L. Zhao, K. Gustavsson<br>
 Physical Review Research 6 (2), L022034.
@@ -206,9 +215,9 @@ Information Bulletin on Variable Stars (IBVS) No. 6199, 2014
 
 ### Computational Skills
 
-- **Coding:** C/C++, Python, MATLAB, GNU Octave, GNU Linux script, Mathematica
-- **Tools:** Git, TensorFlow, PyTorch, SciPy, NumPy, Pandas, BeautifulSoup, JSON, HDF5, Hugo, Wordpress
-- **Text and Visualization:** LaTeX, Microsoft word, Matplotlib, Plotly, GIMP, Inkscape, Photoshop
+- **Coding:** C/C++, Python, MATLAB, GNU Octave, Linux shell scripting, Mathematica
+- **Tools:** Git, TensorFlow, PyTorch, SciPy, NumPy, pandas, BeautifulSoup, JSON, HDF5, Hugo, WordPress
+- **Text and Visualization:** LaTeX, Microsoft Word, Matplotlib, Plotly, GIMP, Inkscape, Photoshop
 
 <hr>
 

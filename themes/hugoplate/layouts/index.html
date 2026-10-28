@@ -33,17 +33,17 @@
   {{ range $i, $e:= .Params.features }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
       <div class="container">
-        <div class="row items- justify-left">
+        <!-- <div class="row items- justify-left">
          <div
             class="mb:md-0 {{ if not (modBool $i 2) }}
               md:order-2
             {{ end }} md:col-3 mb-6">
             {{ partial "image" (dict "Src" .image "Alt" "featureimage") }}
-          </div>
+          </div> -->
           <div
             class="{{ if not (modBool $i 2) }}
               md:order-1
-            {{ end }} md:col-8 lg:col-8">
+            {{ end }} md:col-10 lg:col-12 xl:col-15">
             <h2 class="mb-1">
               {{ .title | markdownify }}
             </h2>

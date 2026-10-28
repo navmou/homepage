@@ -3162,6 +3162,11 @@ input#nav-toggle:checked ~ #nav-menu {
     width: 66.66666666666667%;
   }
 
+  .md\:col-10 {
+    flex: 0 0 auto;
+    width: 83.33333333333334%;
+  }
+
   .md\:order-2 {
     order: 2;
   }
@@ -3197,6 +3202,11 @@ input#nav-toggle:checked ~ #nav-menu {
   .lg\:col-10 {
     flex: 0 0 auto;
     width: 83.33333333333334%;
+  }
+
+  .lg\:col-12 {
+    flex: 0 0 auto;
+    width: 100%;
   }
 
   .lg\:order-1 {
