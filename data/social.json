@@ -1,6 +1,10 @@
 {
   "main": [
-    {
+     {
+      "name": "scholar",
+      "icon": "ai ai-google-scholar",
+      "link": "https://scholar.google.com/citations?user=QTd-sjIAAAAJ&hl=en"
+    },{
       "name": "twitter",
       "icon": "fab fa-twitter",
       "link": "https://twitter.com/namousavi"
@@ -14,6 +18,6 @@
       "name": "linkedin",
       "icon": "fab fa-linkedin",
       "link": "https://www.linkedin.com/in/navid-mousavi"
-    }
+    }   
   ]
 }

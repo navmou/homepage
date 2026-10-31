@@ -42,7 +42,7 @@
             {{ .Content }}
           </div>
           <div class="row items-start justify-between">
-            <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
+            <div class="lg:col-10 mb-10 flex items-center lg:mb-0">
               <h5 class="mr-3">{{ i18n "tags" }} :</h5>
               <ul>
                 {{ $tags:= .Params.tags }}
@@ -57,16 +57,16 @@
                 {{ end }}
               </ul>
             </div>
-            <div class="lg:col-4 flex items-center">
+            <!-- <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false) }}
-            </div>
+            </div> -->
           </div>
           <!-- comments -->
-          {{ if site.Config.Services.Disqus.Shortname }}
+          <!-- {{ if site.Config.Services.Disqus.Shortname }}
             <div class="mt-20">
               {{ template "_internal/disqus.html" . }}
             </div>
-          {{ end }}
+          {{ end }} -->
         </article>
       </div>
 
