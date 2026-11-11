@@ -1,1 +1,4 @@
-// Add your own custom styles here
+// Underline links site-wide, including links outside prose content.
+a {
+  text-decoration-line: underline;
+}
